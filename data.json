@@ -1,0 +1,124 @@
+[
+  {
+    "facultad": "Artes",
+    "decano": "Dione Rufino",
+    "info": "Ha recibido el reconocimiento de la crítica de la ciudad de New York, Premio ACE, siendo reconocido como el director más relevante del año 2010, así como su espectáculo “Al Garete”, como la producción latina más importante del mismo año, con la cual realiza una exitosa gira por diferentes estados. Su espectáculo René…para despertar la memoria” recibió la nominación de la crítica nacional a los entonces Premios Casandra del arte dominicano",
+    "img":"fa.png",
+    "escuelas":[
+      "Escuela de Artes Plásticas",
+      "Escuela de Cine, TV y Fotografía",
+      "Escuela de Critica e Historia del Arte",
+      "Escuela de Diseño Industrial y Moda",
+      "Escuela de Música",
+      "Escuela de Publicidad",
+      "Escuela de Teatro"
+    ]
+  },
+  {
+    "facultad": "Ciencias",
+    "decano": "Radhamés Silverio",
+    "info":"Lic. En Informática –CUM LAUDE- de la Facultad de Ciencias, Escuela de Informática, Universidad Autónoma de Santo Domingo (UASD); posee una Maestría en Comercio Electrónico (E-commerce) de la Universidad APEC y es  Oracle Certified Professional (Oracle University) en el área de Java Programmer, realizando también en esta academia, estudios especializados en el área de Business Intelligence (BI) y Datawarehousing.",
+    "img":"fc.png",
+    "escuelas":[
+      "Escuela de Biología",
+      "Escuela de Ciencias Geográficas",
+      "Escuela de Física",
+      "Escuela de Informática",
+      "Escuela de Matemáticas",
+      "Escuela de Microbiología y Parasitología",
+      "Escuela de Química"
+    ]
+  },
+  {
+    "facultad": "Economía",
+    "decano": "Alexi Martínez",
+    "info":"Alexi Martínez Olivo, Académico, Conferencista, Ejecutivo Universitario, Especialista en Gestión Humana y Gestión Pública. Nació en el año 1966 en Esperanza, Provincia Valverde.  Estudió Administración de Empresas en la Universidad Autónoma de Santo Domingo, UASD. Estudió Finanzas Aplicadas a las Telecomunicaciones, en el Instituto Telecom de Berlín, Alemania, 1991.",
+    "img":"fces.png",
+    "escuelas":[
+      "Escuela de Administración",
+      "Escuela de Contabilidad",
+      "Escuela de Economía",
+      "Escuela de Estadística",
+      "Escuela de Mercadotecnia",
+      "Escuela de sociología",
+      "Escuela de Turismo y Hotelería"
+    ]
+  },
+  {
+    "facultad": "Jurídicas",
+    "decano": "Bautista López",
+    "info":"Universidad Autónoma de Santo Domingo, UASD, 1991-1995. Maestría en Derecho y Relaciones Internacionales, Universidad Autónoma de Santo Domingo, UASD, 1998-2001. Egresado de la Escuela de Verano, Universidad de La Habana, Cuba, Julio 2007",
+    "img":"fcjp.png",
+    "escuelas":[
+      "Escuela de Ciencias Políticas",
+      "Escuela de Derecho"
+    ]
+  },
+  {
+    "facultad": "Educación",
+    "decano": "Lesly Mejía",
+    "info":"Lesly Altagracia Mejía Roque, nació en Las Yayas, provincia de La Vega, Republica Dominicana el día 10 de Agosto de 1961. Vive en la actualidad  en el municipio Santo Domingo Este, de la provincia Santo Domingo.",
+    "img":"fce.png",
+    "escuelas":[
+      "Escuela de Bibliotecología, Técnica e Innovación",
+      "Escuela de Educación Física y Ciencias del Deporte",
+      "Escuela de Educación Infantil y Básica",
+      "Escuela de Educación Media",
+      "Escuela de Orientación Educativa y Psicopedagogica",
+      "Escuela de Teoría y gestión Educativa"
+    ]
+  },
+  {
+    "facultad": "Salud",
+    "decano": "Rosel Fernández",
+    "info":"Rosel Fernández posee una excelente formación profesional, la cual está avalada por los títulos obtenidos en diversas disciplinas del área de la salud, siendo el primero de ellos el de Doctor en Medicina.",
+    "img":"fcs.png",
+    "escuelas":[
+      "Escuela de Biología",
+      "Escuela de Enfermería",
+      "Escuela de Farmacia",
+      "Escuela de Medicina",
+      "Escuela de Odontología",
+      "Escuela de Salud Pública"
+    ]
+  },
+  {
+    "facultad": "Agronomía",
+    "info": "Egresada de la facultad de Ciencias Agronómicas y Veterinarias de la Universidad Autónoma de Santo Domingo (FCAV-UASD) en el año 1985. Cursó estudios de posgrado en la UASD durante 2003-2005, obteniendo Maestría en Enseñanza Superior. En 2018 concluye el programa de Máster Internacional en Gestión Universitaria (MIGU) en la Universidad de Alcalá, España.",
+    "decano": "Ramona Medina",
+    "img":"fcav.png",
+    "escuelas":[
+      "Escuela de Agronomía",
+      "Escuela de Veterinaria",
+      "Escuela de Zootecnia"
+    ]
+  },
+  {
+    "facultad": "Humanidades",
+    "decano": "Augusto Bravo",
+    "info":"lkhpñj",
+    "img":"fh.png",
+    "escuelas":[
+      "Escuela de Filosofía",
+      "Escuela de Comunicación Social",
+      "Escuela de Historia y Antropología",
+      "Escuela de Idiomas",
+      "Escuela de Letras",
+      "Escuela de Psicología"
+    ]
+  },
+  {
+    "facultad": "Ingeniería",
+    "decano": "Amparo Céspedes",
+    "info":"Ingeniero Electromecánico Mención Eléctrica (Codia 14,984), profesor de Teoría Electromagnética y Matemática en la UASD profesor de Física en la Pontificia Universidad Católica Madre y Maestra (PUCMM). Actualmente Director de la Escuela de Ingeniería Electromecánica de la UASD. Presidente de la Empresa Lausara Arte Digital. Trabajó como Ingeniero encargado de Proyecto en las Empresas Constructora Páez & Asociados, Constructora Garces, S.A., Mantisa, S.A",
+    "img":"fia.png",
+    "escuelas":[
+      "Escuela de Agrimensura",
+      "Escuela de Arquitectura",
+      "Escuela de Electromecánica",
+      "Escuela de Ingeniería Civil",
+      "Escuela de Ingeniería Industrial",
+      "Escuela de Ingeniería Química"
+    ]
+  }
+]
